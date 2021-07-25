@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@alan-ai/alan-sdk-react-native@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@alan-ai/alan-sdk-react-native/-/alan-sdk-react-native-1.5.0.tgz#32bdb0008081583afa625419325f7eac134c24ef"
+  integrity sha512-ArrZLaSVMhyrWusfa1LqANODUoSTTOSxhLKmGRj4QW0pVRxGbh8mSL6EXzbEcQh8G9cewlE4nN9Sy1H+7IIQ2Q==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.14.5", "@babel/code-frame@^7.8.3":
   version "7.14.5"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.14.5.tgz#23b08d740e83f49c5e59945fbf1b43e80bbf4edb"
